@@ -1,0 +1,69 @@
+{
+    "name": "Dask + Ray pipeline",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "950bb4ce-7da8-473a-b61e-e9f7f9c72449": {
+            "environment": "39071421-b7eb-4c4b-ba14-9e7684dbf0a6",
+            "file_path": "ray-basics.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    71.5,
+                    453.5
+                ]
+            },
+            "parameters": {},
+            "title": "Ray basics",
+            "uuid": "950bb4ce-7da8-473a-b61e-e9f7f9c72449"
+        },
+        "cc1f7b2a-770d-4232-a5a4-ee82505fa0ca": {
+            "environment": "39071421-b7eb-4c4b-ba14-9e7684dbf0a6",
+            "file_path": "generalized-linear-models.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    71,
+                    310.5
+                ]
+            },
+            "parameters": {},
+            "title": "Dask GLM",
+            "uuid": "cc1f7b2a-770d-4232-a5a4-ee82505fa0ca"
+        },
+        "cdec19fc-3e19-44c3-b313-bf2c5cdc52e0": {
+            "environment": "39071421-b7eb-4c4b-ba14-9e7684dbf0a6",
+            "file_path": "dask-basics.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    71.5,
+                    168
+                ]
+            },
+            "parameters": {},
+            "title": "Dask Basics",
+            "uuid": "cdec19fc-3e19-44c3-b313-bf2c5cdc52e0"
+        }
+    },
+    "uuid": "ec011e4b-27df-4afe-b498-a94bb79ef14f",
+    "version": "1.0.0"
+}
