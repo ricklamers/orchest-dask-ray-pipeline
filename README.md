@@ -4,4 +4,5 @@ This repo contains a basic pipeline that runs a 'hello world' application create
 
 For Dask we also run the Dask Generalized Linear Models example code.
 
-![Quickstart pipeline visualization](https://github.com/ricklamers/orchest-dask-ray-pipeline/blob/master/ray_dask_pipeline.orchest)
+![Ray dask pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/orchest-dask-ray-pipeline/blob/master/ray_dask_pipeline.orchest)
+
